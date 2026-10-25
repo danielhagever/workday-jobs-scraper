@@ -1,0 +1,35 @@
+[
+  {
+    "jobId": "JR2015832",
+    "title": "Senior Software Engineer, Platform Engineering",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Platform-Engineering_JR2015832",
+    "postedAt": "2026-10-20T00:00:00Z",
+    "postedAtRelative": "Posted 5 Days Ago",
+    "boardTokenResolved": "nvidia",
+    "company": "NVIDIA",
+    "atsPlatform": "workday",
+    "boardToken": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite",
+    "boardUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite",
+    "seniority": "senior",
+    "workArrangement": "onsite",
+    "isRemote": false,
+    "country": "United States"
+  },
+  {
+    "jobId": "R-566959",
+    "title": "Principal Engineer, AI Engineering",
+    "location": "CITY OF LONDON,",
+    "url": "https://wf.wd1.myworkdayjobs.com/wellsfargojobs/job/CITY-OF-LONDON/Principal-Engineer--AI-Engineering-_R-566959",
+    "postedAt": "2026-09-28T00:00:00Z",
+    "postedAtRelative": "Posted 27 Days Ago",
+    "boardTokenResolved": "wf",
+    "company": "Wells Fargo",
+    "atsPlatform": "workday",
+    "boardToken": "https://wf.wd1.myworkdayjobs.com/wellsfargojobs",
+    "boardUrl": "https://wf.wd1.myworkdayjobs.com/wellsfargojobs",
+    "seniority": "principal",
+    "workArrangement": "onsite",
+    "isRemote": false
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "companies": ["NVIDIA", "Wells Fargo", "Procter & Gamble"],
+  "titleKeywords": ["engineer", "analyst"],
+  "maxResultsPerCompany": 25
+}

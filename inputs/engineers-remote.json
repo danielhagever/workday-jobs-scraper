@@ -1,0 +1,7 @@
+{
+  "companies": ["Salesforce", "Adobe", "Workday"],
+  "titleKeywords": ["software engineer"],
+  "remoteOnly": true,
+  "includeDescription": true,
+  "maxResultsPerCompany": 20
+}
