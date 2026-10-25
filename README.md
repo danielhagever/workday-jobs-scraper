@@ -188,7 +188,7 @@ source is fresher.
 
 ## Related
 
-- [Company Career Page Jobs Scraper](https://apify.com/glitchbound/ats-jobs-scraper): a company name or domain in, its open jobs out, across 24 career systems.
+- [Company Career Page Jobs Scraper](https://apify.com/glitchbound/ats-jobs-scraper): a company name or domain in, its open jobs out, across 24 career systems. Quick start: [company-career-page-scraper](https://github.com/danielhagever/company-career-page-scraper).
 - [Job Listings API](https://apify.com/glitchbound/ats-jobs-search): search one index of career-site jobs by title, place or salary, with a daily feed of new roles.
 - [Oracle Recruiting Jobs Scraper](https://apify.com/glitchbound/oracle-jobs-scraper): the same rows from Oracle Cloud careers sites (Marriott, Kroger, Hilton).
 - [Workday Jobs API](https://apify.com/glitchbound/workday-jobs-api): a ready-made dataset of Workday postings across employers, no company list needed.
