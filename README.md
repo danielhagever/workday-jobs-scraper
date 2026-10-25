@@ -155,8 +155,8 @@ Three things will catch you out, each measured:
    postings from, and refuses to guess at names outside it.
 
 The list rows carry no description and only a phrase for the date ("Posted 30+ Days Ago");
-the full posting is one more GET per job. The same notes for 17 other systems (Greenhouse,
-Lever, Ashby, Oracle, SmartRecruiters, ...) are in
+the full posting is one more GET per job. The same notes for 16 other systems (Greenhouse,
+Lever, Ashby, Oracle, ADP, ...) are in
 [**job-board-apis**](https://github.com/danielhagever/job-board-apis).
 
 ## FAQ
